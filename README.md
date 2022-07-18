@@ -1,0 +1,1 @@
+# jogo_compativel_com_dispositivos
